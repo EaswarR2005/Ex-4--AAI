@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME: EASWAR R</H3>
 <H3>ENTER YOUR REGISTER NO: 212223230053</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE: 04/10/25</H3>
+<H3>DATE: 12/09/25</H3>
 
 ## EX4 Implementation of Hidden Markov Model
 
